@@ -12,7 +12,8 @@ My name is Anas Mubarak Yasin. I'm from Indonesia, living in Makassar and curren
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=AnasMubarakYasin&show_icons=true&line_height=27&=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AnasMubarakYasin&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anasmubarakyasin)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anasmubarakyasin&show_icons=true&include_all_commits=true)
 
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
