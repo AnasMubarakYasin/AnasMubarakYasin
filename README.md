@@ -8,7 +8,7 @@ My name is Anas Mubarak Yasin. I'm from Indonesia, living in Makassar and curren
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnasMubarakYasin&hide=html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
 
-<a href="https://github.com/AnasMubarakYasin/AnasMubarakYasin">
+<a href="https://github.com/AnasMubarakYasin">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=AnasMubarakYasin&show_icons=true&line_height=27&=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
