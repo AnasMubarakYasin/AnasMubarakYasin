@@ -4,7 +4,7 @@
 My name is Anas Mubarak Yasin. I'm from Indonesia, living in Makassar and currently studying at the State Islamic University of Alauddin Makassar majoring in Information Systems. I'm focusing on Web App programming.
 
 ## &#x1f4c8; GitHub Stats
-<a href="https://github.com/AnasMubarakYasin/AnasMubarakYasin">
+<a href="https://github.com/AnasMubarakYasin">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnasMubarakYasin&hide=html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
 
