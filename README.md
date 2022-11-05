@@ -4,13 +4,9 @@
 My name is Anas Mubarak Yasin. I'm from Indonesia, living in Makassar and currently studying at the State Islamic University of Alauddin Makassar majoring in Information Systems. I'm focusing on Web App programming.
 
 ## &#x1f4c8; GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anasmubarakyasin)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anasmubarakyasin&show_icons=true&include_all_commits=true)
-
-<!-- Resources -->
-<!-- Icons: https://simpleicons.org/ -->
-<!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
-<!-- Emojis: https://emojipedia.org/emoji/ -->
-<!-- HTML Emojis: https://www.fileformat.info/index.htm -->
-<!-- Shields: https://shields.io/ -->
-<!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="top" src="https://github-readme-stats.vercel.app/api?username=anasmubarakyasin&show_icons=true&include_all_commits=true&show=issues&theme=radical" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anasmubarakyasin&theme=radical" />
+</a>
