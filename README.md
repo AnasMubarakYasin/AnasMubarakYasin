@@ -1,7 +1,7 @@
 <!-- More info, tips and tricks for making GitHub Profile README can be found in my article at https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Anas Mubarak Yasin. I'm from Indonesia, living in Makassar and currently studying at the State Islamic University of Alauddin Makassar majoring in Information Systems. I'm focusing on Web App programming.
+My name is Anas Mubarak Yasin. I'm from Indonesia, living in Maros and graduated from the State Islamic University of Alauddin Makassar with a degree in Information Systems. I'm focusing on Web App programming.
 
 ## &#x1f4c8; GitHub Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
